@@ -35,6 +35,8 @@ Whether you're a beginner learning Python or someone interested in exploring sim
 3. Run the Python file:
     </> Bash
    python filename.py
+
+   
 📚 Learning Outcomes
 
 Through this project, I learned:
