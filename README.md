@@ -48,15 +48,14 @@ Writing clean and readable code;
 Using GitHub for version control.
 
 
-🎯 Future Improvements
+🎯 Future Improvements:
 Add more features and functionality;
 Improve user experience;
 Optimize code performance;
 Explore advanced Python concepts.
 
 
-🤝 Contributions
-
+🤝 Contributions:
 Suggestions and feedback are always welcome. Feel free to fork the repository, open issues, or submit pull requests.
 
 ⭐ Support
